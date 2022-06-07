@@ -9,6 +9,8 @@
     "hardhat": "^2.9.6"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.6.0"
+    "@nomiclabs/hardhat-etherscan": "^3.0.4",
+    "@openzeppelin/contracts": "^4.6.0",
+    "dotenv": "^16.0.1"
   }
 }
